@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-dev",
+  "name": "@classdojo/ts-node-dev",
   "version": "1.0.0-pre.31",
   "description": "Compiles your TS app and restarts when files are modified.",
   "keywords": [
